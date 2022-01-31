@@ -98,7 +98,22 @@ h2 {
 #logo_linkedin {
     width : 0.8em;
     padding-top: 2px;
+    padding-left: 2px;
 }
+
+#imagesContainer{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding: 20px 0px;
+}
+
+.cssBattles {
+    width: 30%;
+    justify-content: space-around;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+
 
 /* Mobile ------------------------------------------------------------------------------------------------------------------------*/
 /* --------------------------------------------------------------------------------------------------------------------------------------*/
